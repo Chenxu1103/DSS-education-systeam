@@ -49,7 +49,7 @@ matplotlib
 
 bash
 复制
-git clone https://github.com/yourusername/DSS_Multimedia_Learning_Project.git
+(https://github.com/Chenxu1103/DSS-education-systeam)
 cd DSS_Multimedia_Learning_Project
 安装依赖 使用 pip 安装项目依赖：
 
